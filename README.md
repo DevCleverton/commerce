@@ -1,4 +1,4 @@
-[![Deploy with Vercel](
+[![Deploy ](
                     Fork)
                   )
 
