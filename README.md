@@ -1,6 +1,6 @@
 [![Deploy with Vercel](
                     Fork)
-                  </summary>)
+                  )
 
 # Next.js Commerce
 
